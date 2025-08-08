@@ -15,9 +15,9 @@ Tecnólogo en Electrónica Industrial con dominio del inglés, enfocado en la ad
 - Programé microcontroladores para la adquisición, respaldo y transmisión de datos obtenidos de sensores térmicos, ópticos y atmosféricos de una sonda espacial usando Excel, Python, C++ y administrando la información con R Studio, Google Cloud y Azure.  
 - Actualmente lidero el grupo TecnoUD en el reto Codefest Ad Astra 2024 entre la Fuerza Aérea Colombiana y la Universidad de los Andes, representando a la Universidad Distrital Francisco José de Caldas. Desarrollamos algoritmos de cifrado de imágenes de gran tamaño en el estándar AES en modo CTR, y hemos presentado una solución a la fase inicial del proyecto.
 
-### 🏫Sena, Servicio Nacional de Aprendizaje — Etapa Productiva
+### 🏫Sena, Servicio Nacional de Aprendizaje — Etapa Electiva
 
-- Utilicé MySQL, Java, PHP y JavaScript para el desarrollo de un proyecto de administración de información para las pruebas ICFES.
+- Utilicé MySQL, Java, PHP y JavaScript para el desarrollo de un proyecto de administración de inventario.
 
 ## 🏢Formación Académica
 
@@ -29,9 +29,9 @@ Tecnólogo en Electrónica Industrial con dominio del inglés, enfocado en la ad
 - Asistí a la ponencia de la universidad frente al CEA (Centro de Estudios Aeronáuticos), donde se expuso la contribución del 40% por parte del grupo.
 
 ### 🏦Servicio Nacional de Aprendizaje (Sena)  
-**Carrera:** Técnico en Programación de Software
+**Carrera:** Tecnólogo en Programación de Software
 
-- Durante mi etapa práctica, participé en un grupo que desarrolló un aplicativo para tratamiento de datos y requerimientos de usuario usando Java.  
+- Durante mi etapa electiva, participé en un grupo que desarrolló un aplicativo para tratamiento de datos y requerimientos de usuario usando Java.  
 - Dirigí el semillero de investigación Robo Tic A Usminia, que expuso proyectos de electrónica en convenciones escolares, usando C y C++.
 
 ## 🏋️‍♀️Habilidades
