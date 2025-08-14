@@ -43,7 +43,8 @@ Tecnólogo en Electrónica Industrial con dominio del inglés, enfocado en la ad
 ## 🏅🏆Certificaciones e Insignias
 
 - Electrónica Industrial - Universidad Distrital Francisco José de Caldas  
-- Inglés C1 - Academia de Idiomas Smart (en proceso)  
+- Analisis y desarrollo de software - SENA
+- Inglés C1 - Academia de Idiomas Smart 
 - Fundamentos, Iniciación y Planificación de la Gestión de Proyectos - Senatec  
 - Supervised Machine Learning: Regression and Classification - Stanford Online and Deep Learning AI  
 - Advanced Learning Algorithms (Machine Learning) - Stanford Online and Deep Learning AI  
