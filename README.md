@@ -36,7 +36,7 @@ Tecnólogo en Electrónica Industrial con dominio del inglés, enfocado en la ad
 
 ## 🏋️‍♀️Habilidades
 
-- **Idiomas:** Bilingüe (inglés B2, español coloquial y lenguaje de señas colombiana)
+- **Idiomas:** Bilingüe (inglés C1, español coloquial y lenguaje de señas colombiana)
 - **Programación:** Visual Basic, C, C++, Java, JavaScript, Python, Excel, R Studio, PHP, SQL, AutoCAD
 - **Conocimientos:** Principios de ciberseguridad, vulnerabilidades de la red, privacidad y confidencialidad de los datos, machine learning, criptografía, programación con Python, comunicación verbal, trabajo en equipo
 
